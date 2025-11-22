@@ -10,6 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Matheus-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-2002&layout=compact&theme=dark&hide=Jupyter%20Notebook)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
